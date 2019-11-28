@@ -7,3 +7,6 @@
 
   Data is present in the form of pickel. Data is all ready pre-processed along with the lable (Data is not uploaded due to size error).
   
+# Required package
+
+tensorflow, pickle, Opencv2, tqdm
